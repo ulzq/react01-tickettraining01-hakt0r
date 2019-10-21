@@ -71,7 +71,7 @@ class App extends React.Component {
     player:          [],   // this array is where we keep all the player's states
     currentPlayer:   null, // a reference to the player whose turn it currently is
     controlsBlocked: true, // blocks player input if a projectile is flying or setting are opened
-    showSettings:    true  // wther or not the Settings should be shown
+    showSettings:    true  // wether or not the Settings should be shown
   }
 
   /*
